@@ -9,7 +9,6 @@ opencv_python
 pillow
 PyYAML
 scipy
-setuptool
 scikit-image
 tqdm
 transformers
