@@ -1,4 +1,4 @@
-torch==2.1.2
+torch==2.2.0
 torchvision==0.16.2
 accelerate==0.31.0
 diffusers==0.29.2
